@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 - [Beschreibung](#Beschreibung)
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Daten Sammeln](#DatenSammeln)
 - [Modelltraining](#Modelltraining)
 - [Ergebnisse](#Ergebnisse)
@@ -20,7 +20,7 @@ Sie können die erforderlichen Pakete mit dem folgenden Befehl in Ihrer Umgebung
 pip install -r requirements.txt
 ```
 
-## Daten Sammeln
+## DatenSammeln
 ## Modelltraining
 ## Ergebnisse 
 
