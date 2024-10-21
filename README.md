@@ -1,14 +1,9 @@
-you can install the required packages in your environment using the following command:
-
-pip install -r requirements.txt
-
-
 # Klassifizierung von Filmen mittels maschinellem Lernen
 
 ## Inhaltsverzeichnis
 - [Beschreibung](#Beschreibung)
 - [Installation](#installation)
-- [Daten Sammeln](#Daten Sammeln)
+- [Daten Sammeln](#DatenSammeln)
 - [Modelltraining](#Modelltraining)
 - [Ergebnisse](#Ergebnisse)
 
@@ -19,7 +14,7 @@ Logistic Regression, K-Nearest Neighbors (KNN) und neuronale Netzwerke in PyTorc
 
 ## Installation
 
-Beschreibe hier die Schritte zur Installation deines Projekts. 
+Sie können die erforderlichen Pakete mit dem folgenden Befehl in Ihrer Umgebung installieren:
 
 ```bash
 pip install -r requirements.txt
