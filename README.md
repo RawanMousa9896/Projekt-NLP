@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## DatenSammeln
+Die Daten stammen von der Webseite 'The Movie Database'. Durch das Erstellen eines Accounts bzw. über die API kann man verschiedene Variablen (z. B. den Titel des Films, das Veröffentlichungsdatum, usw.) erhalten. Die Daten wurden anschließend in einer CSV-Datei gespeichert. Danach war es notwendig, weitere Schritte durchzuführen, bevor die Daten für die Machine-Learning-Modelle verwendet werden konnten. Beispielsweise wurden Zeilen mit NaN-Werten entfernt, die textuellen Daten wurden mit NLP-Techniken verarbeitet und durch Oversampling und Undersampling basierend auf der Anzahl der Filme pro Sprache ausgeglichen.
+
 ## Modelltraining
+### Logistische Regression
 ## Ergebnisse 
 
